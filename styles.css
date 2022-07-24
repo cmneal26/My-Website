@@ -1,0 +1,8 @@
+<!DOCTYPE CSS>
+
+{
+  background-image: url(simplified-philmap.png), url(paper.gif);
+  background-position: right bottom, left top;
+  background-repeat: no repeat, repeat;
+  padding: 15px;
+}
