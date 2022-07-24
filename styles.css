@@ -6,3 +6,8 @@
   background-repeat: no repeat, repeat;
   padding: 15px;
 }
+
+p {
+  color:pink;
+  font-size: 15px
+}
